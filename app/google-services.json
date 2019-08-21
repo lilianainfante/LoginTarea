@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "871843679538",
+    "firebase_url": "https://login-b6bea.firebaseio.com",
+    "project_id": "login-b6bea",
+    "storage_bucket": "login-b6bea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871843679538:android:ac01cdb418ee7e34",
+        "android_client_info": {
+          "package_name": "com.example.logintarea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871843679538-asdgrsnom5madkg2iu80uaida1scaib8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaRQ9nU1tW3YtJ9gGMDgUzoZRyzkik710"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871843679538-asdgrsnom5madkg2iu80uaida1scaib8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
